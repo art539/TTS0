@@ -1,0 +1,1 @@
+HUGGINGFACE_API_KEY = "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" # Enter your Huggingface API Key
